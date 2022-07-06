@@ -1,0 +1,15 @@
+body {
+    color: red;
+}
+
+.order-wrapper {
+    background: red;
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.red {
+    color: red;
+}
+
